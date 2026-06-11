@@ -1,0 +1,138 @@
+Core Features (Fix these)
+6-DOF Navigation
+Rotate
+Pan
+Zoom
+3 Programmable Buttons
+Fit View
+Undo
+Custom shortcut
+One Precision Mode
+Slow, fine movement for detailed CAD work.
+USB Plug-and-Play
+No battery management in v1.
+Ergonomic One-Hand Design
+Palm-rest style body.
+3D Printable Enclosure
+Easy for makers to print and assemble.
+
+Not a gaming mouse. Not a 3D mouse clone.
+
+A platform.
+
+Base
+
+Normal ergonomic mouse.
+
+USB-C.
+
+F-Mouse internals.
+
+
+Left magnetic rail
+
+Attach different modules:
+
+🎛 Rotary encoder
+
+🎮 Mini joystick
+
+🖲 Trackball
+
+⌨ 3-key macro pad
+
+🎚 Slider
+
+
+Swap in 2 seconds.
+
+Software
+
+Profiles:
+
+CAD
+
+KiCad
+
+Blender
+
+Shotcut
+
+VS Code
+
+
+The OLED says:
+
+BLENDER
+Encoder → Zoom
+Key1 → G
+Key2 → R
+Key3 → S
+
+Switch to CAD:
+
+ONSHAPE
+Encoder → Rotate
+Key1 → Pan
+Key2 → Fit
+Key3 → Measure
+Now ask: Would people buy it?
+
+I think yes.
+
+Because people don't buy a new mouse every time they change workflows.
+
+Why I like it for Fallout:
+
+Great industrial design challenge.
+
+PCB challenge.
+
+Firmware challenge.
+
+Mechanical design.
+
+Product thinking.
+
+Beautiful renders.
+
+Expandable ecosystem.
+
+And the documentation almost writes itself.
+
+My only simplification:
+
+Don't actually design every module.
+
+Design:
+
+Base mouse.
+
+Magnetic interface.
+
+One rotary encoder module.
+
+One macro pad module.
+
+
+Show that more modules can exist later.
+
+That is enough to communicate the platform.
+
+Tagline: A modular input platform.
+
+Base
+Ergonomic mouse shell
+USB-C
+F-Mouse internals
+Left magnetic expansion rail
+Expansion connector
+v1 Module
+Rotary encoder module (only)
+Future Modules (render/documentation only)
+Mini joystick
+Trackball
+3-key macro pad
+Slider
+
+
