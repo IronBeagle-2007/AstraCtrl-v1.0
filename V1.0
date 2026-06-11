@@ -1,4 +1,4 @@
-Core Features (Fix these)
+# Core Features (Fix these)
 6-DOF Navigation
 Rotate
 Pan
@@ -14,7 +14,7 @@ No battery management in v1.
 Ergonomic One-Hand Design
 Palm-rest style body.
 3D Printable Enclosure
-Easy for makers to print and assemble.
+Easy for makers to print and assemble. #
 
 Not a gaming mouse. Not a 3D mouse clone.
 
@@ -119,7 +119,7 @@ Show that more modules can exist later.
 
 That is enough to communicate the platform.
 
-Tagline: A modular input platform.
+# Tagline: A modular input platform.
 
 Base
 Ergonomic mouse shell
@@ -133,6 +133,6 @@ Future Modules (render/documentation only)
 Mini joystick
 Trackball
 3-key macro pad
-Slider
+Slider #
 
 
