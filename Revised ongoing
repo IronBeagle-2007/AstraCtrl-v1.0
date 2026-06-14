@@ -1,0 +1,12 @@
+AstraCtrl Architecture v1.0;-
+USB-C
+   │
+   ▼
+ MCU (RP2040)
+   │
+   ├── Optical Sensor
+   ├── Left Click
+   ├── Right Click
+   ├── Scroll Wheel
+   ├── Thumb Rotary Encoder
+   └── 3 Thumb Buttons
